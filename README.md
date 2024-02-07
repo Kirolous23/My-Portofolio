@@ -1,2 +1,2 @@
 # My-Portofolio
-Portofolio Made by HTML CSS  
+ Responsive Portofolio Made by HTML CSS  
