@@ -22,7 +22,7 @@ h3{
 /* Section 1 Css */
 #hero{
 
-    background: url('./Images/background.png') no-repeat center center ;
+    background: url('./Images/Background.png') no-repeat center center ;
     height: 830px;
     background-size: cover;
     position: relative;
